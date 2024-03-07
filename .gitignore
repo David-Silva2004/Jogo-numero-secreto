@@ -1,0 +1,5 @@
+temp/
+arquivo.txt
+
+//Ignora todos css
+*.css
